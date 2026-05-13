@@ -11,9 +11,10 @@ return {
     servers = {
       lua_ls = {},
       pyright = {},
-      html = {},
+      superhtml = {},
       cssls = {},
       vts_ls = {},
+      tinymist = {},
     },
   },
 
