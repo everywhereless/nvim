@@ -6,7 +6,7 @@ return {
     "rafamadriz/friendly-snippets",
   },
   build = function()
-    require("blink.cmp").build():wait(60000)
+    require("blink.cmp").build():wait(10000)
   end,
   opts = {
 
